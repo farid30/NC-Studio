@@ -1,0 +1,6 @@
+{
+  "name": "NCStudio ESP32",
+  "description": "CNC router and milling machine controller for ESP32 GRBL and FluidNC with digital DRO coordinate readouts, tactile jog controls, 2D toolpath visualization, MDI terminal, and spindle control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
